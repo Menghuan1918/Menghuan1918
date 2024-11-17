@@ -1,9 +1,12 @@
 # 🎉 Hi!
-I am a computer science university student with a current interest in the application and development of LLM.
+I am a college student majoring in Computer Science, currently in junior.
 
+Currently interested in the application and development of LLM.
+
+But... I'm actually very passionate about a lot of things ：D
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,raspberrypi,ubuntu,vscode,pr,bash,git,docker,anaconda,py,c,cpp," />
+    <img src="https://skillicons.dev/icons?i=arch,raspberrypi,ubuntu,vscode,pr,bash,git,docker,anaconda,py,c,go,ts,pytorch" />
   </a>
 </p>
 
