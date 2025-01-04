@@ -1,6 +1,8 @@
 # 🎉 Hi!
 I am a college student majoring in Computer Science, currently in junior.
 
+Welcome to visit [my blog](https://blog.menghuan1918.com/)~
+
 Currently interested in the application and development of LLM.
 
 But... I'm actually very passionate about a lot of things ：D
