@@ -1,5 +1,5 @@
 # 🎉 Hi!
-I am a college student majoring in Computer Science, currently in junior.
+I am a college student majoring in Computer Science, currently in senior.
 
 Welcome to visit [my blog](https://blog.menghuan1918.com/)~
 
