@@ -1,14 +1,20 @@
 # 🎉 Hi!
-I am a college student majoring in Computer Science, currently in senior.
+
+Backend & AI Developer
+> <p align="left"><em>
+>     于信息洪流中，寻找下一个奇点的信号
+>     <br>
+>     Searching for the signal of the next singularity in the information deluge
+> </em></p>
+
+I am a Computer Science undergraduate, will graduate in 2026.
 
 Welcome to visit [my blog](https://blog.menghuan1918.com/)~
 
-Currently interested in the application and development of LLM.
-
-But... I'm actually very passionate about a lot of things ：D
+Preferred software/technology:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,raspberrypi,ubuntu,vscode,pr,bash,git,docker,anaconda,py,c,go,ts,pytorch" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=arch,vscode,docker,py,go,ts" />
   </a>
 </p>
 
@@ -19,6 +25,16 @@ But... I'm actually very passionate about a lot of things ：D
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Menghuan1918/Menghuan1918/output/github-contribution-grid-snake.svg">
 </picture>
 
-# 🧭 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Menghuan1918)
 
+
+# 🧭 Github Stats
+<div>
+    <div>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Menghuan1918&show_icons=true&count_private=true&theme=onedark" alt="Menghuan1918's Most Used Languages" />
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Menghuan1918&count_private=true&show_icons=true&hide_border=true&theme=onedark"/>  
+    </div>
+</div>
+
+<div align="center">
