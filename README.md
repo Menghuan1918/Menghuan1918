@@ -7,7 +7,7 @@ Backend & AI(application) Developer || Love for FOSS
 >     Searching for the signal of the next singularity in the information deluge
 > </em></p>
 
-I am a Computer Science undergraduate.
+Let's build an automated future.
 
 Welcome to visit [my blog](https://blog.menghuan1918.com/)~
 
