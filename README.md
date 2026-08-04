@@ -10,7 +10,10 @@ AI Training Infra Engineer | Agent Developer(It's funny,right?) | Love for FOSS
 
 Let's build an automated future. 让我们构建一个梦幻的自动化未来吧
 
-Welcome to visit [my blog](https://blog.menghuan1918.com/)~
+## 🧐Contact me
+- Welcome to visit [my blog](https://blog.menghuan1918.com/intro.html)
+- Email [outlook](mailto:menghuan2003@outlook.com) `menghuan2003@outlook.com`
+- Email [foxmail](mailto:menghuan1918@foxmail.com) `menghuan1918@foxmail.com`
 
 Preferred software/technology:
 <p align="center">
