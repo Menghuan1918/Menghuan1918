@@ -1,6 +1,8 @@
 ## 🎉 Hi! I'm Atlas Zeng
 
-AI Training Infra Engineer | Agent Developer(It's funny,right?) | Love for FOSS
+- AI Training Infra Engineer [@mindlab](https://macaron.im/mindlab)
+- Agent Developer(It's funny,right?)
+- ❤️ Love for FOSS
 
 > <p align="left"><em>
 >     于信息洪流中，寻找下一个奇点的信号
